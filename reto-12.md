@@ -1,4 +1,4 @@
-# RETO 11
+# RETO 12
 ## Sergio Olivares Martin
 ### Punto 1
 Desarrollar un algoritmo que imprima de manera ascendente los valores (todos del mismo tipo) de un diccionario.
